@@ -1,0 +1,482 @@
+[
+  {
+    "company_id": "C000001",
+    "name": "临港精工001有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造一区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000002",
+    "name": "临港装备002有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "智造二区",
+    "device_count": 26
+  },
+  {
+    "company_id": "C000003",
+    "name": "临港动力003有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "智造一区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000004",
+    "name": "临港机电004有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "能源中心",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000005",
+    "name": "临港能源005有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "能源中心",
+    "device_count": 18
+  },
+  {
+    "company_id": "C000006",
+    "name": "临港新材006有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "能源中心",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000007",
+    "name": "临港科技007有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "能源中心",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000008",
+    "name": "临港智造008有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "智造一区",
+    "device_count": 32
+  },
+  {
+    "company_id": "C000009",
+    "name": "临港精工009有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "智造一区",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000010",
+    "name": "临港装备010有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "研发孵化区",
+    "device_count": 47
+  },
+  {
+    "company_id": "C000011",
+    "name": "临港动力011有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "仓储物流区",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000012",
+    "name": "临港机电012有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "仓储物流区",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000013",
+    "name": "临港能源013有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "能源中心",
+    "device_count": 24
+  },
+  {
+    "company_id": "C000014",
+    "name": "临港新材014有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造二区",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000015",
+    "name": "临港科技015有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "综合配套区",
+    "device_count": 4
+  },
+  {
+    "company_id": "C000016",
+    "name": "临港智造016有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "综合配套区",
+    "device_count": 5
+  },
+  {
+    "company_id": "C000017",
+    "name": "临港精工017有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "研发孵化区",
+    "device_count": 10
+  },
+  {
+    "company_id": "C000018",
+    "name": "临港装备018有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "智造一区",
+    "device_count": 21
+  },
+  {
+    "company_id": "C000019",
+    "name": "临港动力019有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "能源中心",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000020",
+    "name": "临港机电020有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "综合配套区",
+    "device_count": 11
+  },
+  {
+    "company_id": "C000021",
+    "name": "临港能源021有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "研发孵化区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000022",
+    "name": "临港新材022有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "仓储物流区",
+    "device_count": 24
+  },
+  {
+    "company_id": "C000023",
+    "name": "临港科技023有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "仓储物流区",
+    "device_count": 20
+  },
+  {
+    "company_id": "C000024",
+    "name": "临港智造024有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "仓储物流区",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000025",
+    "name": "临港精工025有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "能源中心",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000026",
+    "name": "临港装备026有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "研发孵化区",
+    "device_count": 21
+  },
+  {
+    "company_id": "C000027",
+    "name": "临港动力027有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "智造一区",
+    "device_count": 20
+  },
+  {
+    "company_id": "C000028",
+    "name": "临港机电028有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "仓储物流区",
+    "device_count": 12
+  },
+  {
+    "company_id": "C000029",
+    "name": "临港能源029有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "能源中心",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000030",
+    "name": "临港新材030有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "智造二区",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000031",
+    "name": "临港科技031有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "能源中心",
+    "device_count": 19
+  },
+  {
+    "company_id": "C000032",
+    "name": "临港智造032有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "智造二区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000033",
+    "name": "临港精工033有限公司",
+    "status": "运营中",
+    "industry": "工业材料",
+    "zone": "综合配套区",
+    "device_count": 11
+  },
+  {
+    "company_id": "C000034",
+    "name": "临港装备034有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "综合配套区",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000035",
+    "name": "临港动力035有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "能源中心",
+    "device_count": 33
+  },
+  {
+    "company_id": "C000036",
+    "name": "临港机电036有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "仓储物流区",
+    "device_count": 10
+  },
+  {
+    "company_id": "C000037",
+    "name": "临港能源037有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造二区",
+    "device_count": 19
+  },
+  {
+    "company_id": "C000038",
+    "name": "临港新材038有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造一区",
+    "device_count": 23
+  },
+  {
+    "company_id": "C000039",
+    "name": "临港科技039有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "智造一区",
+    "device_count": 18
+  },
+  {
+    "company_id": "C000040",
+    "name": "临港智造040有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "仓储物流区",
+    "device_count": 5
+  },
+  {
+    "company_id": "C000041",
+    "name": "临港精工041有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "研发孵化区",
+    "device_count": 41
+  },
+  {
+    "company_id": "C000042",
+    "name": "临港装备042有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "能源中心",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000043",
+    "name": "临港动力043有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "智造二区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000044",
+    "name": "临港机电044有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造二区",
+    "device_count": 14
+  },
+  {
+    "company_id": "C000045",
+    "name": "临港能源045有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "综合配套区",
+    "device_count": 5
+  },
+  {
+    "company_id": "C000046",
+    "name": "临港新材046有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "综合配套区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000047",
+    "name": "临港科技047有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "研发孵化区",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000048",
+    "name": "临港智造048有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "仓储物流区",
+    "device_count": 10
+  },
+  {
+    "company_id": "C000049",
+    "name": "临港精工049有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "综合配套区",
+    "device_count": 45
+  },
+  {
+    "company_id": "C000050",
+    "name": "临港装备050有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "综合配套区",
+    "device_count": 18
+  },
+  {
+    "company_id": "C000051",
+    "name": "临港动力051有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "智造一区",
+    "device_count": 19
+  },
+  {
+    "company_id": "C000052",
+    "name": "临港机电052有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "研发孵化区",
+    "device_count": 5
+  },
+  {
+    "company_id": "C000053",
+    "name": "临港能源053有限公司",
+    "status": "运营中",
+    "industry": "智能制造",
+    "zone": "智造二区",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000054",
+    "name": "临港新材054有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "智造二区",
+    "device_count": 17
+  },
+  {
+    "company_id": "C000055",
+    "name": "临港科技055有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造一区",
+    "device_count": 7
+  },
+  {
+    "company_id": "C000056",
+    "name": "临港智造056有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "综合配套区",
+    "device_count": 6
+  },
+  {
+    "company_id": "C000057",
+    "name": "临港精工057有限公司",
+    "status": "运营中",
+    "industry": "冷链物流",
+    "zone": "研发孵化区",
+    "device_count": 25
+  },
+  {
+    "company_id": "C000058",
+    "name": "临港装备058有限公司",
+    "status": "运营中",
+    "industry": "精密电子",
+    "zone": "能源中心",
+    "device_count": 9
+  },
+  {
+    "company_id": "C000059",
+    "name": "临港动力059有限公司",
+    "status": "运营中",
+    "industry": "新能源",
+    "zone": "仓储物流区",
+    "device_count": 8
+  },
+  {
+    "company_id": "C000060",
+    "name": "临港机电060有限公司",
+    "status": "运营中",
+    "industry": "汽车零部件",
+    "zone": "智造一区",
+    "device_count": 7
+  }
+]
